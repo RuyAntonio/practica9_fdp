@@ -1,2 +1,2 @@
 # pratica9_fdp
-Práctica 9: Arreglos Unidimensionales
+Práctica 09: Arreglos Unidimensionales
